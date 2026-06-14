@@ -14,12 +14,12 @@ Previously - Web developer with **15 years** of experiance in web development.
 
 - [vscode-st](https://github.com/Serhioromano/vscode-st) — VS Code extension for Structured Text (IEC 61131-3) language support
 - [vscode-gitflow](https://github.com/Serhioromano/vscode-gitflow) — Git Flow extension for Visual Studio Code
-- [vscode-pi-sr](https://github.com/Serhioromano/pi-vscode/tree/main/vscode-ext) — Pi Agent Companion extension for `pi-vscode-sr` extension
+- [vscode-pi-sr](https://github.com/Serhioromano/pi-vscode-sr/tree/main/vscode-ext) — Pi Agent Companion extension for `pi-vscode-sr` extension
 
 ### AI
 
 - [pi-defender](https://github.com/Serhioromano/pi-defender) — Defense-in-depth protection for Pi coding agent — blocks dangerous commands and protects sensitive files
-- [pi-vscode-sr](https://github.com/Serhioromano/pi-vscode) — Extension that sends files chages for Vs Code dif editor to Approve or Reject changes.
+- [pi-vscode-sr](https://github.com/Serhioromano/pi-vscode-sr) — Extension that sends files chages for Vs Code dif editor to Approve or Reject changes.
 
 ### Industrial Automation & PLC
 
